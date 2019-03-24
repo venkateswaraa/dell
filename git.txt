@@ -10,6 +10,11 @@ what are you doing  1 2 3 4 5 6
 nenu election ki intiki potunna
 meeru yela vunnaru
 anta bagane vunnaru kada
+<<<<<<< HEAD
 10
 10
 10
+=======
+dell laptop to working yela vundi
+    12   13 11 14 15 16 171 81 191 19
+>>>>>>> ea5f20cc239bdf1bf7c6a5e1428595ae8c1e3ac9
